@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working at [The Agency](http://www.theagency-dz.com/) and i do some freelancing at [UpWork](https://www.upwork.com/freelancers/~01bff6d360f4520114)
 
-- 💬 Ask me about **Flutter**
+- 🧑‍💻 I’m looking to collaborate on open source projects
+
+- 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
 
 - 📫 How to reach me **djameleddinesebbagh@gmail.com**
 
@@ -12,5 +14,7 @@
 <a href="https://www.facebook.com/profile.php?id=100033406563949" target="_blank"><img src="https://img.shields.io/badge/Facebook-%232D88FF.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://twitter.com/EddineSebbagh?s=07" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <br><br>
+
+### Github Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Djameleddine21&show_icons=true&locale=en" alt="Djameleddine21" /></p>
