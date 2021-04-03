@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Djamel eddine</h1>
 <h3>A passionate mobile developer from Algeria, and Software Engineer Student</h3>
 
-- 🔭 I’m currently working at [The Agency](http://www.theagency-dz.com/) and i do some freelancing at [UpWork](https://www.upwork.com/freelancers/~01bff6d360f4520114)
+- 🔭 I’m currently working at [The Agency](http://www.theagency-dz.com/).
 
 - 🧑‍💻 I’m looking to collaborate on open source projects
 
