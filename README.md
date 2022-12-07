@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Djameleddine</h1>
-<h3>A passionate mobile developer from Algeria, and Software Engineer Student</h3>
+<h1>Hi 👋, I'm Djamel eddine</h1>
+<h3>A passionate mobile developer from Algeria, and Software Engineer</h3>
 
 - 🧑‍💻 I’m looking to collaborate on open source projects
 
