@@ -8,7 +8,7 @@
 - 📫 How to reach me **djameleddinesebbagh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/djamel-eddine-sebbagh-b34810155" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/djameleddine-sebbagh-b34810155/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/profile.php?id=100033406563949" target="_blank"><img src="https://img.shields.io/badge/Facebook-%232D88FF.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://twitter.com/EddineSebbagh?s=07" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <br><br>
