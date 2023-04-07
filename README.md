@@ -3,8 +3,6 @@
 
 - 🧑‍💻 I’m looking to collaborate on open source projects
 
-- 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev)
-
 - 📫 How to reach me **djameleddinesebbagh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
