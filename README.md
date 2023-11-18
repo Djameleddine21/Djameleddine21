@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Djamel</h1>
-<h3>A passionate developer from Algeria, and Software Engineer</h3>
+<h3>A passionate developer, and Software Engineer</h3>
 
 - 🧑‍💻 I’m looking to collaborate on open-source projects
 
