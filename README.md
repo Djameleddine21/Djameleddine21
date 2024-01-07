@@ -3,8 +3,6 @@
 
 - 🧑‍💻 I’m looking to collaborate on open-source projects
 
-- 📫 How to reach me **djameleddinesebbagh@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/djameleddine-sebbagh-b34810155/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://twitter.com/DjamelSeb" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
